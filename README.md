@@ -1,2 +1,4 @@
 # Brightness-and-Contrast
-Brightness and Contrast in image by calculating gamma values by addition and multiplication
+
+
+This repository is a straightforward Python implementation of Brightness and Contrast on an image. The 2 operations are done by calculating gamma values by addition and multiplication. 
